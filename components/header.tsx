@@ -31,8 +31,8 @@ const Header: React.FC = () => {
 					/>
 					<Image
 						className="hidden md:block"
-						width={194}
-						height={28}
+						width={300}
+						height={60}
 						src="/logo.png"
 						alt="thirdweb"
 					/>
